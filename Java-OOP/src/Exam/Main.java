@@ -1,4 +1,4 @@
-package Exam.restaurant;
+package Exam;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
