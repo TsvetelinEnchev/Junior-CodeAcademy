@@ -1,4 +1,4 @@
-package restaurant.objects;
+package Exam.restaurant.objects;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import java.util.Random;
 
-import static restaurant.interfaces.ColorAble.*;
+import static Exam.restaurant.interfaces.ColorAble.*;
 
 public class Client {
 

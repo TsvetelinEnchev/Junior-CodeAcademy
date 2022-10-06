@@ -1,6 +1,6 @@
-package restaurant.objects;
+package Exam.restaurant.objects;
 
-import restaurant.interfaces.ColorAble;
+import Exam.restaurant.interfaces.ColorAble;
 
 import java.util.Map;
 

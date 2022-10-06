@@ -1,4 +1,4 @@
-package restaurant.objects;
+package Exam.restaurant.objects;
 
 import java.util.ArrayList;
 import java.util.List;

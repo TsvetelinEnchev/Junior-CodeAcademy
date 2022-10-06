@@ -1,4 +1,4 @@
-package restaurant.models;
+package Exam.restaurant.models;
 
 
 public class Staff {

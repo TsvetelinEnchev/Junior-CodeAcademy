@@ -1,9 +1,8 @@
-package restaurant.objects;
+package Exam.restaurant.objects;
 
+import Exam.restaurant.interfaces.ColorAble;
 import java.math.BigDecimal;
 import java.util.*;
-
-import restaurant.interfaces.ColorAble;
 
 public class Restaurant implements ColorAble
 {

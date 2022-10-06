@@ -1,6 +1,6 @@
-package restaurant.objects;
+package Exam.restaurant.objects;
 
-import restaurant.models.Staff;
+import Exam.restaurant.models.Staff;
 
 public class Chef extends Staff
 {

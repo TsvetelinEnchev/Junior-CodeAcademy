@@ -1,3 +1,5 @@
+package Exam.restaurant;
+
 import java.math.BigDecimal;
 import java.util.Scanner;
 import restaurant.objects.Restaurant;

@@ -1,4 +1,4 @@
-package restaurant.interfaces;
+package Exam.restaurant.interfaces;
 
 public interface ColorAble {
 

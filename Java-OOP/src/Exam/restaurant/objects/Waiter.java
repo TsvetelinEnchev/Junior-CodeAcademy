@@ -1,10 +1,10 @@
-package restaurant.objects;
+package Exam.restaurant.objects;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-import restaurant.models.Staff;
+import Exam.restaurant.models.Staff;
 
 public class Waiter extends Staff {
 
